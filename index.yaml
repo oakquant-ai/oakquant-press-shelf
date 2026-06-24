@@ -1,5 +1,21 @@
 books:
 - author_login: pumulo
+  short_name: the_last_keeper
+  title: The Last Keeper
+  author: Pumulo Sikaneta
+  description: 'Every consequential system once had a keeper—the judge, the doctor,
+    the pilot who could override the machine. The Last Keeper traces what happens
+    as that human judgment is quietly removed from courts, clinics, cockpits, and
+    targeting systems: the person stays in the room, but their authority is gone,
+    and no one is left to hold accountable.'
+  genre: nonfiction
+  public: true
+  outputs:
+  - the_last_keeper_v2026-06-24.epub
+  - the_last_keeper_v2026-06-24_7x10.pdf
+  published_at: '2026-06-24T01:58:09+00:00'
+  updated_at: '2026-06-24T01:58:09+00:00'
+- author_login: pumulo
   short_name: dirty_wisdom
   title: Dirty Wisdom
   author: Pumulo Sikaneta
