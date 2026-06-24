@@ -1,5 +1,20 @@
 books:
 - author_login: pumulo
+  short_name: the_referendum
+  title: The Referendum
+  author: Pumulo Sikaneta
+  description: Seven days. One vote. A fictional West African nation faces a referendum
+    on a $12 billion Chinese deal that promises everything and costs everything. Twelve
+    voices — a president, a farmer, a journalist, an activist, a mercenary — collide
+    as a country decides its future. No heroes. No villains. No clean answer.
+  genre: nonfiction
+  public: true
+  outputs:
+  - the_referendum_v2026-06-24.epub
+  - the_referendum_v2026-06-24_7x10.pdf
+  published_at: '2026-06-24T01:56:46+00:00'
+  updated_at: '2026-06-24T01:56:46+00:00'
+- author_login: pumulo
   short_name: someone_to_look_up_to
   title: Someone To Look Up To
   author: Pumulo Sikaneta
