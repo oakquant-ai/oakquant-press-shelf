@@ -1,0 +1,17 @@
+books:
+- author_login: pumulo
+  short_name: someone_to_look_up_to
+  title: Someone To Look Up To
+  author: Pumulo Sikaneta
+  description: A family moves into an old house and finds a stranger's forty-year
+    journal hidden in the attic. They read it aloud across a snowed-in week. Each
+    entry mirrors something in their own lives. A novel about the quiet, unremarked
+    heroism that holds families together — the kind you don't recognize until you're
+    old enough to look back and see it.
+  genre: fiction
+  public: true
+  outputs:
+  - someone_to_look_up_to_v2026-06-24.epub
+  - someone_to_look_up_to_v2026-06-24_6x9.pdf
+  published_at: '2026-06-24T01:56:08+00:00'
+  updated_at: '2026-06-24T01:56:08+00:00'
