@@ -1,0 +1,15 @@
+{
+  "author_login": "pumulo",
+  "short_name": "the_cost_of_the_machine",
+  "title": "The Cost Of The Machine",
+  "author": "Pumulo Sikaneta",
+  "description": "Three books. One argument. The Last Keeper documents the cost of removing humans from the loop. Who Holds the Jar? traces five thousand years of computational power concentrating in fewer hands. The Great Convergence asks who writes the rules — and what happens when nobody does. The governance window for AI is open. It is closing.",
+  "genre": "nonfiction",
+  "public": true,
+  "outputs": [
+    "the_cost_of_the_machine_v2026-06-24.epub",
+    "the_cost_of_the_machine_v2026-06-24_7x10.pdf"
+  ],
+  "published_at": "2026-06-24T01:57:27+00:00",
+  "updated_at": "2026-06-24T01:57:27+00:00"
+}
