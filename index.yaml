@@ -1,5 +1,21 @@
 books:
 - author_login: pumulo
+  short_name: who_holds_the_jar
+  title: Who Holds the Jar?
+  author: Pumulo Sikaneta
+  description: 'From a shepherd''s counting jar to the frontier AI model, this is
+    the five-thousand-year history of computation told as a story about power. Every
+    prior era distributed capability as costs fell. The AI era reverses it—capability
+    concentrates where the compute, data, and money are. The question that remains
+    is simple: who holds the jar?'
+  genre: nonfiction
+  public: true
+  outputs:
+  - who_holds_the_jar_v2026-06-24.epub
+  - who_holds_the_jar_v2026-06-24_7x10.pdf
+  published_at: '2026-06-24T01:58:40+00:00'
+  updated_at: '2026-06-24T01:58:40+00:00'
+- author_login: pumulo
   short_name: the_last_keeper
   title: The Last Keeper
   author: Pumulo Sikaneta
