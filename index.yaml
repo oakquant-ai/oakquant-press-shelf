@@ -1,5 +1,20 @@
 books:
 - author_login: pumulo
+  short_name: dirty_wisdom
+  title: Dirty Wisdom
+  author: Pumulo Sikaneta
+  description: When the Strait of Hormuz closes, a tanker anchors and twenty-three
+    crew begin to map a global system that is impressively efficient and quietly fragile.
+    Eight thinkers — from Lao Tzu to Donella Meadows — describe what they're seeing,
+    twenty-five centuries before the news made it a headline.
+  genre: fiction
+  public: true
+  outputs:
+  - dirty_wisdom_v2026-06-24.epub
+  - dirty_wisdom_v2026-06-24_7x10.pdf
+  published_at: '2026-06-24T01:57:49+00:00'
+  updated_at: '2026-06-24T01:57:49+00:00'
+- author_login: pumulo
   short_name: the_cost_of_the_machine
   title: The Cost Of The Machine
   author: Pumulo Sikaneta
